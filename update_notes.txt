@@ -1,0 +1,5 @@
+X35 Modeler 1.1
+- Improved slicing speed by 30%
+- Fixed vertex selection bug in CutTool
+- New: Lua node for curve fitting in NodeGraph
+- Minor UI fixes and language updates
