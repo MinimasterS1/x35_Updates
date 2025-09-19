@@ -1,6 +1,6 @@
-          X35 Modeler 1.0
+          X35 Modeler beta
 - Fixed vertex selection bug in CutTool
 - New: Lua node for curve fitting in NodeGraph
 - Optimized scene rendering
 - Added support for update downloading
-- Stepan Lomay Dali!!=)) 
+- Bug fix ShaderMask
