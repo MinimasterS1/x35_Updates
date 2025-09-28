@@ -1,4 +1,3 @@
-           X35 Modeler 1.0
+           					X35 Engine 1.0
 -All resources are now embedded directly into the binaries through the new Virtual File System (VFS).  
--Memory management has been optimized for better performance and lower footprint.  
 -Fixed an issue with Windows window disappearing under certain conditions.  
