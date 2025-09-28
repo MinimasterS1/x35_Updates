@@ -1,3 +1,4 @@
            					X35 Engine 1.0
 -All resources are now embedded directly into the binaries through the new Virtual File System (VFS).  
--Fixed an issue with Windows window disappearing under certain conditions.  
+-Fixed an issue with Windows window disappearing under certain conditions. 
+-Bug Fixes 
