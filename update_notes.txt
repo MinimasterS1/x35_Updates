@@ -2,5 +2,5 @@
 -Visible enabled buttons snap camera/wireframe\grid.  
 -Add debug Sphere to camera snap mode. 
 -Bug Fixes 
--Fix Font Scale sets
+-Fix Font Scale sets Ebat Ego v Rot!!!!
 -Rebuild Transform Window
