@@ -1,6 +1,6 @@
-           					  X35 Engine 1.0
--Visible enabled buttons snap camera/wireframe\grid.  
--Add debug Sphere to camera snap mode. 
+           					  X35 Engine 1.01
+-GPU Pool Manual.  
+-Add Properties Panel. 
 -Bug Fixes 
--Fix Font Scale sets Ebat Ego v Rot!!!!
--Rebuild Transform Window
+-Add License Key
+- =)
